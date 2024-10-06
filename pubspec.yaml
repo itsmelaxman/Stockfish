@@ -5,8 +5,8 @@ repository: https://github.com/ArjanAswal/stockfish.git
 homepage: https://github.com/ArjanAswal/stockfish.git
 
 environment:
-  sdk: '>=2.17.0 <3.0.0'
-  flutter: '>=3.0.0'
+  sdk: ">=3.4.3 <4.0.0"
+  flutter: ">=3.5.2"
 
 dependencies:
   ffi: ^2.0.0
